@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /theme/
+Disallow: /tag/
+Disallow: /images/
+Disallow: /extra/
+
+User-agent: Googlebot-Mobile
+Disallow: /theme/
+Disallow: /tag/
+Disallow: /images/
+Disallow: /extra/
+
+SITEMAP: http://cbudjan.com/sitemap.xml
+
